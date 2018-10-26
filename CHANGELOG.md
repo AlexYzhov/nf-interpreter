@@ -13,6 +13,10 @@
 
 - Fixes for issue \#416 [\#933](https://github.com/nanoframework/nf-interpreter/pull/933) [[Area: Interpreter](https://github.com/nanoframework/nf-interpreter/labels/Area:%20Interpreter)]
 
+**Documentation and other chores:**
+
+- Move System.Math to it's own class lib [\#948](https://github.com/nanoframework/nf-interpreter/pull/948)
+
 ## [v1.0.1](https://github.com/nanoframework/nf-interpreter/tree/v1.0.1) (2018-10-18)
 [Full Changelog](https://github.com/nanoframework/nf-interpreter/compare/v1.0.0...v1.0.1)
 
